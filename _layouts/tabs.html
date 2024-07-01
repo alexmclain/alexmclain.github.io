@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="tabs">
+  <ul class="nav nav-tabs">
+    {% for tab in site.data.tabs %}
+    <li class="nav-item">
+      <a class="nav-link{% if tab.url == page.url %} active{% endif %}" href="{{ tab.url }}">{{ tab.name }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <div class="tab-content">
+    {{ content }}
+  </div>
+</div>

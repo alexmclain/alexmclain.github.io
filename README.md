@@ -1,4 +1,12 @@
 
+---
+layout: tabs
+title: Home
+permalink: /
+---
+
+# Welcome to My Site
+
 <center>
   # **Alexander C. McLain**  
 </center>

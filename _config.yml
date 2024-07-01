@@ -1,3 +1,8 @@
-title: Alexander McLain
+stitle: Alexander McLain
 logo: /assets/img/Headshot-May-2023-a_squ.jpeg
 theme: jekyll-theme-minimal
+
+include:
+  - _pages
+  - _tabs
+  - assets/css/custom.css
