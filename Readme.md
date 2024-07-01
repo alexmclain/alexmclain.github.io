@@ -5,10 +5,10 @@ title: Home
 permalink: /
 ---
 
-# Welcome to My Site
+# Welcome to My (in progress) Site
 
 <center>
-  # **Alexander C. McLain**  
+# **Alexander C. McLain**  
 </center>
   
 ---
