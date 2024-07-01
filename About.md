@@ -2,7 +2,7 @@
 ---
 layout: tabs
 title: About
-permalink: /
+permalink: /about/
 ---
 
 # About Me

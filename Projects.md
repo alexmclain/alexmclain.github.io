@@ -2,7 +2,7 @@
 ---
 layout: tabs
 title: Projects
-permalink: /
+permalink: /projects/
 ---
 
 # Projects
