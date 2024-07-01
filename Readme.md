@@ -11,10 +11,10 @@ permalink: /
   # **Alexander C. McLain**  
 </center>
   
-  ---
+---
   
-  **Department of Epidemiology and Biostatistics**  
-  Arnold School of Public Health  
+**Department of Epidemiology and Biostatistics**  
+Arnold School of Public Health  
 University of South Carolina  
 Phone: (803) 777-1124  
 
@@ -25,9 +25,9 @@ E-mail: [mclaina@mailbox.sc.edu](mailto:mclaina@mailbox.sc.edu)
 
 ---
   
-  ## Resume
+## Resume
   
-  **Statistical Interests:** High-dimensional regression models; variable selection; longitudinal, clustered, and spatial data; length-biased survival analysis.  
+**Statistical Interests:** High-dimensional regression models; variable selection; longitudinal, clustered, and spatial data; length-biased survival analysis.  
 
 **Scientific Interests:** Maternal and child health outcomes, global nutrition, preventative science, and neuroimaging data.
 
@@ -35,7 +35,7 @@ E-mail: [mclaina@mailbox.sc.edu](mailto:mclaina@mailbox.sc.edu)
 
 ---
   
-  ## **Professional Appointments**
+## **Professional Appointments**
   
   - **Associate Professor (with tenure),**  
   Department of Epidemiology and Biostatistics, University of South Carolina.  
@@ -56,9 +56,9 @@ E-mail: [mclaina@mailbox.sc.edu](mailto:mclaina@mailbox.sc.edu)
   Department of Statistics, University of South Carolina.  
 *2003 - 2008*
   
-  ---
+---
   
-  ## **Education**
+## **Education**
   
   - **Ph.D. in Statistics,**  
   University of South Carolina, Columbia, SC  
