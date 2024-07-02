@@ -1,0 +1,50 @@
+---
+title: "Alexander McLain"
+---
+
+<hr>
+
+I am an Associate Professor in the Department of Epidemiology and
+Biostatistics at the University of South Carolina. I have a broad range
+of statistical interests including Bayesian methods for high-dimensional
+linear regression, modeling complex longitudinal and clustered data,
+length-biased survival analysis, and multiple testing. Recently, most of
+my research has focused on computationally feasible Bayesian methods for
+prediction, predictive inference, and variable selection for
+high-dimensional regression models. My areas of application are in
+maternal child-health, nutrition, disease mapping (with various
+outcomes), and neuroimaging. I am an Associate Editor for Statistics in
+Medicine and is a Statistical Consultant for the American Journal of
+Obstetrics and Gynecology, I was formerly an Associate Editor for The
+American Statistician, a member of the Statistical Review Board for the
+American Society of Nutrition. <br>
+
+<hr>
+
+## Contact
+
+::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+<div>
+
+Associate Professor<br> Director, Statistical and Data Management Core,
+<br> Research Center for Child Well-Being <https://rccwb.sc.edu/><br>
+Department of Epidemiology and Biostatistics<br> Arnold School of Public
+Health<br> University of South Carolina<br>
+[alex.mclain\@sc.edu](mailto:alex.mclain@sc.edu){.email} <br>
+
+</div>
+
+<div>
+
+![](img/Headshot-May-2023-a_squ.jpeg)
+
+</div>
+:::
+
+<hr>
+
+[GitHub](https://github.com/alexmclain) \|
+[Google Scholar](https://scholar.google.com/citations?user=_IVNctIAAAAJ&hl=en&oi=sra) \| 
+[Orcid](https://orcid.org/0000-0002-5475-0670) \|
+[Web of Science](https://www.webofscience.com/wos/author/record/AFD-8215-2022) \| 
+[University of South Carolina](https://www.sc.edu/study/colleges_schools/public_health/faculty-staff/mclain_alexander.php) 

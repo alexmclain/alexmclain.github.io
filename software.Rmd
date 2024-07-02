@@ -1,0 +1,66 @@
+---
+title: "Software"
+---
+
+
+<hr>
+
+**[`probe`](https://github.com/alexmclain/PROBE): Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm **
+
+[![](http://www.r-pkg.org/badges/version/resevol?color=blue)](https://cran.r-project.org/package=probe) 
+
+The [probe package](https://github.com/alexmclain/PROBE) contains the R software tools to run the PaRtitiOned empirical Bayes Ecm (PROBE) algorithm. PROBE uses minimal prior assumptions on the parameters are used through the use of plug-in empirical Bayes estimates of hyperparameters. Efficient maximum (MAP) estimation is completed through a Parameter-Expanded Expectation-Conditional-Maximization (PX-ECM) algorithm. The PX-ECM results in a robust computationally efficient coordinate-wise optimization, which adjusts for the impact of other predictor variables. The completion of the E-step uses an approach motivated by the popular two-groups approach to multiple testing. The PROBE algorithm is applied to sparse high-dimensional linear regression, which can be completed using one-at-a-time or all-at-once type optimization. PROBE is a novel alternative to Markov chain Monte Carlo, empirical Bayes, and Variational Bayes approaches to fitting sparse linear models. See [McLain et al. (2022)](https://arxiv.org/abs/2209.08139) for more details.
+
+
+Installation instructions for `probe` are [available on GitHub](https://github.com/alexmclain/PROBE). The `probe` package is available [on CRAN](https://cran.r-project.org/web/packages/probe/) with [documentation](https://cran.r-project.org/web/packages/probe/probe.pdf) for use. 
+
+<hr>
+
+
+**[`lmmprobe`](https://github.com/anjazgodic/lmmprobe): Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm **
+
+
+`lmmprobe` is an `R` package extends the PROBE algorithm to sparse high-dimensional linear mixed-effect regression models. High-dimensional longitudinal data is increasingly used in a wide range of scientific studies. To properly account for dependence between longitudinal observations, statistical methods for high-dimensional linear mixed models (LMMs) have been developed. However, few packages implementing these high-dimensional LMMs are available in the statistical software `R`. Additionally, some packages suffer from scalability issues. This package implements Linear Mixed Modeling with PaRtitiOned empirical Bayes ECM (LMM-PROBE), an efficient and accurate Bayesian framework for high-dimensional LMMs. We use empirical Bayes estimators of hyperparameters for increased flexibility and an Expectation-Conditional-Minimization (ECM) algorithm for computationally efficient maximum a posteriori probability (MAP) estimation of parameters. The novelty of the approach lies in its partitioning and parameter expansion as well as its fast and scalable computation. See [Zgodic et al. (2022)](https://arxiv.org/abs/2310.12285) for more details.
+
+
+Installation instructions for `lmmprobe` are [available on GitHub](https://github.com/anjazgodic/lmmprobe).
+
+<hr>
+
+
+
+**[`wabh`](https://github.com/alexmclain/WABH_Analysis): False Discovery Rate Control for Lesion-Symptom Mapping with Heterogeneous data via Weighted P-values **
+
+
+This repository contains code to implement the Weighted Adaptive Benjamini Hochberg (WABH) procedure, which uses p-value weighting to improve the power of high-dimensional multiple testing. See [Zhang et al (2023)](https://arxiv.org/abs/2308.08364) for more details.
+
+
+<hr>
+
+
+
+**[`cdscr`](https://github.com/alexmclain/CDSCR): Length-biased semicompeting risks models for cross-sectional data: An application to current duration of pregnancy attempt data **
+
+
+This repository contains  \texttt{R} programs for the analysis of current duration data that is subjected to semi-competing risks. The details of this model are discussed in [McLain et al. (2021)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Length-biased-semicompeting-risks-models-for-cross-sectional-data/10.1214/20-AOAS1428.full).
+
+
+<hr>
+
+
+
+**[`PHMM`](https://github.com/alexmclain/PHMM): Prediction intervals for penalized longitudinal models with multisource summary measures: An application to childhood malnutrition **
+
+
+This repository contains  \texttt{R}  code to fit a Penalized Heterogeneous Mixture Model (PHMM). The details of the statistical methods can be seen in [McLain et al. (2019)](https://onlinelibrary.wiley.com/doi/10.1002/sim.8024). These programs estimate confidence and prediction intervals using an asymptotic estimate of the covariance matrix. 
+
+The methods in `PHMM` are used by UNICEF, WHO, and the World Bank to generate global health estimates for stunting and overweight. See [`mnf-sdg-stunting-overweight`](https://github.com/WorldHealthOrganization/mnf-sdg-stunting-overweight) for the GitHub repository containing code and sample data for this project. For more, see the documentation from the [Joint-Malnutrition-Estimates](https://data.unicef.org/resources/jme-report-2020/).
+
+
+<hr>
+
+
+
+
+
+

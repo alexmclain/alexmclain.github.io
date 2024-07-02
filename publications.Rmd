@@ -1,0 +1,121 @@
+---
+title: "Selected Publications"
+---
+
+**Complete List of Published Work can be seen in [My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1t1Mlu-pcvyk9/bibliography/public/) or my [CV](https://alexmclain.github.io/jekyll-example/McLainCV.pdf).** 
+
+
+<hr>
+
+$^s$Student Author. $^c$Corresponding Author. $^\ast$Dual first-authors.  $^\divideontimes$Senior Author.
+
+<ol reversed>
+
+<li> Zhang$^s$ S, **AC McLain**$^{\divideontimes c}$, J Habiger, C Rorden, and J Fridriksson (2024). [False Discovery Rate Control for Lesion Symptom Mapping with Heterogeneous data via Weighted P-values](https://arxiv.org/abs/2308.08364). *Biometrical Journal* (accepted). [Link to R code](https://github.com/alexmclain/WABH_Analysis).
+
+<li> Guo$^s$, S, Y Wu, **AC McLain**, JW Hardin, B Olatosi, X Li, and J Zhang (2024). Functional multi-variable logistic regression with an application to HIV viral suppression prediction. *Biometrical Journal* (accepted).
+
+<li> Self S, X Zhao$^s$, A Zgodic$^s$, A Overby, D White, **AC McLain**$^{\divideontimes}$, and C Dyckman (2024). [A Hypothesis Test for Detecting Spatial Patterns in Categorical Areal Data](https://doi.org/10.1016/j.spasta.2024.100839). *Spatial Statistics* (available online).
+
+<li> Olejua$^s$ P, **AC McLain**$^{\divideontimes c}$, N Inak, M Dowda, and RR Pate (2024). [Clustering patterns of 24-hour physical activity in children 6 to 36 months old](https://doi.org/10.1123/pes.2023-0055). *Pediatric Exercise Science* (available online).
+
+<li> Bradshaw J, JM Eberth, A Zgodic, A Federico, K Flory, **AC McLain**$^{\divideontimes c}$ (2024). [County-Level Prevalence Estimates of Autism Spectrum Disorder in Children in the United States](https://link.springer.com/article/10.1007/s10803-023-05920-z). *Journal of Autism and Developmental Disorders* (available online).
+
+<li> Self S, A Overby, A Zgodic$^s$, D White, **AC McLain**$^{\divideontimes}$, and C Dyckman (2023). [A hypothesis test for detecting distance-specific clustering and dispersion in areal data](https://www.sciencedirect.com/science/article/pii/S2211675323000325?dgcid=coauthor). *Spatial Statistics* 55, 100757.
+
+<li> Zgodic$^{s  c}$ A, **AC McLain**$^{\divideontimes}$, JM Eberth, A Federico, J Bradshaw, K Flory (2023). [County-Level Prevalence Estimates of ADHD in Children in the United States](https://www.sciencedirect.com/science/article/pii/S1047279723000066). *Annals of Epidemiology* 79, 56--64.
+
+<li> Hong$^s$, Y, JM Eberth, B Cai, and **AC McLain**$^{\divideontimes c}$ (2022). [Estimating confidence intervals for spatial hierarchical mixed-effects models with post-stratification](https://www.sciencedirect.com/science/article/abs/pii/S2211675322000434). *Spatial Statistics* 51, 100670.
+
+   - [Editorial](https://doi.org/10.1093/jn/nxac092) published by the *Journal of Nutrition* and [blog post](https://nutrition.org/utilization-of-sparse-longitudinal-data-to-estimate-childhood-stunting-and-overweight-trends/) by the *American Society for Nutrition*, discussing the results.
+
+<li> Saraswati$^s$, CM, E Borghi, JJ Rodrigues da Silva Breda, CM Flores-Urrutia, J Williams, C Hayashi, EA Frongillo, and **AC McLain**$^{\divideontimes}$ (2022). [Estimating childhood stunting and overweight trends in the European region from sparse longitudinal data](https://doi.org/10.1093/jn/nxac072). *Journal of Nutrition* 150:7, 1773--1782.
+
+<li> Hess$^\ast$, SY, **AC McLain**$^\ast$, H Lescinsky, KH Brown A Afshin, R Atkin, and SJM Osendarp (2022). [Basis for changes for global burden of disease estimates related to vitamin A and zinc deficiency in the GBD 2017 and 2019 Studies](https://www.cambridge.org/core/journals/public-health-nutrition/article/abs/basis-for-changes-in-the-global-burden-of-disease-estimates-related-to-vitamin-a-and-zinc-deficiencies-in-the-gbd-2017-and-2019-studies/0D3C57D1EF044BA7A1857E7D789F0134). *Public Health Nutrition*  25:8, 2225--2231.
+
+<li> Luo$^s$, X, G Cai, **AC McLain**, C I Amos, B Cai, and F Xiao (2022) [BMI-CNV: a Bayesian framework for multiple genotyping platforms detection of copy number variation](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac147/6726187). *Genetics* 222:4, iyac147.
+
+<li> Self, SCW, R Huang, S Amin, J Ewing, C Rudisill, and **AC McLain**$^{\divideontimes}$ (2022). [A Bayesian Susceptible-Infectious-Hospitalized-Ventilated-Recovered Model to Predict Demand for COVID-19 Inpatient Care in a Large Healthcare System](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260595). *PLoS One* 17:12, e0260595.
+
+<li> **McLain$^ c$, AC**, S Guo, ME Thoma, and J Zhang (2021). [Length-biased semicompeting risks models for cross-sectional data: An application to current duration of pregnancy attempt data](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Length-biased-semicompeting-risks-models-for-cross-sectional-data/10.1214/20-AOAS1428.full). *Annals of Applied Statistics* 15:2, 1054--1067. [Link to code](https://github.com/alexmclain/CDSCR).
+
+<li> Zgodic$^s$, A, J Eberth, C Brennen, ME Wende, EW Stowe, AT Kaczynski, AD Liese and **AC McLain**$^{\divideontimes c}$ (2021). [Estimates of Childhood Overweight and Obesity at the Region, State, and County Levels: A Multilevel Small Area Estimation Approach](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwab176/6300228). *American Journal of Epidemiology* 190:12, 2618--2629.
+
+<li> Hess$^\ast$, SY, **AC McLain**$^\ast$, EA Frongillo, A Afshin, NJ Kassebaum, SJM Osendarp, R Atkin, R Rawat, and KH Brown (2021). [Challenges for estimating the global prevalence of micronutrient deficiencies and related disease burden: A case study of the Global Burden of Disease Study](https://doi.org/10.1093/cdn/nzab141). *Current Developments in Nutrition* 5:12, nzab141.
+
+<li> Zhou$^s$, J, J Zhang, **AC McLain**, W Lu, X Sui, and JW Hardin (2020). [Semiparametric Regression of the Illness-Death Model with Interval Censored Disease Incidence Time: an Application to the ACLS Data](https://journals.sagepub.com/doi/full/10.1177/0962280220939123). *Statistical Methods in Medical Research* 29:12, 3707-3720.
+
+<li> **McLain$^{ c}$ AC**, EA Frongillo, E Borghi, and J Feng (2019). [Prediction intervals for heterogeneous penalized longitudinal models with multi-source summary measures: an application to estimating child malnutrition rates](https://onlinelibrary.wiley.com/doi/10.1002/sim.8024). *Statistics in Medicine* 38:1, 1002--1012. [Link to R code](https://github.com/alexmclain/PHMM).
+
+<li> **McLain, AC**, EA Frongillo, SY Hess, E Piwoz (2019). [Comparison of methods used to estimate the global burden of disease related to undernutrition and suboptimal breastfeeding](https://www.sciencedirect.com/science/article/pii/S2161831322006998). *Advances in Nutrition* 10:3, 380--390.
+
+<li> Zhang$^s$ Y, **AC McLain**$^ c$, B Davis, S McDermott (2019). [Fecundity and infertility among women with disability in the United States](https://www.liebertpub.com/doi/abs/10.1089/jwh.2018.7267). *Journal of Women's Health* 28:7, 934--940.
+
+<li> Zhou$^s$, J, **AC McLain**, W Lu, X Sui, JW Hardin, and J Zhang (2019). [A Varying-Coefficient Generalized Odds Rate Model with Time-Varying Exposure: An Application to Fitness and CVD Mortality](https://onlinelibrary.wiley.com/doi/10.1111/biom.13057). *Biometrics* 75:3, 853--863.
+
+<li> Eberth$^\ast$ JM, **AC McLain**$^\ast$, Y Hong$^s$, E Sercy, A Diedhiou, D J Kilpatrick (2018). [Estimating county-level tobacco use and exposure in South Carolina: a spatial model-based small area estimation approach](https://europepmc.org/abstract/med/29685650). *Annals of Epidemiology* 28:7, 481--488.e4.
+
+<li> Geraci, M, and **AC McLain** (2018). [Multiple imputation for bounded variables](https://link.springer.com/article/10.1007%2Fs11336-018-9616-y). *Psychometrika* 83:4 919--940.
+
+<li> Polis, CB, CM Cox, \"{O} Tun\c{c}alp, **AC McLain**, ME Thoma (2017). [Estimating infertility prevalence in low-to-middle-income countries: An application of a current duration approach to Demographic and Health Survey data](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/dex025). *Human Reproduction*, 32:5, 1064--1074.
+
+  - [post](https://www.globalhealthnow.org/2017-02/estimating-infertility-conceiving-new-approach?utm_source=Global+Health+NOW+Main+List&utm_campaign=7421dbbced-EMAIL_CAMPAIGN_2017_02_15&utm_medium=email&utm_term=0_8d0d062dbd-7421dbbced-858767&utm_source=IHP+Newsletter&utm_campaign=1e8a5fbcbc-EMAIL_CAMPAIGN_2017_02_17&utm_medium=email&utm_term=0_14504ce43d-1e8a5fbcbc-298052537) by *Global Health Now*, [post](http://sph.umd.edu/news-item/dr-thoma-verifies-cost-effective-approach-generate-infertility-estimates) by University of Maryland School of Public Health and [post](https://www.sc.edu/study/colleges_schools/public_health/about/news/2017/infertility_prevalence.php#.WY3cna3MwUE) by the University of South Carolina Arnold School of Public Health.
+  - Honorable mention for the [Winners of the Untold Global Health Stories of 2019](https://www.globalhealthnow.org/2019-03/winners-untold-global-health-stories-2019-announced?utm_source=Global+Health+NOW+Main+List&utm_campaign=4f36c206bf-EMAIL_CAMPAIGN_2019_03_08_02_02&utm_medium=email&utm_term=0_8d0d062dbd-4f36c206bf-2808677).
+
+<li> **McLain$^ c$ AC**, R Sundaram, and GM Buck Louis (2016). [Modeling fecundity in the presence of a sterile fraction using a semi-parametric transformation model for grouped survival data](http://smm.sagepub.com/content/25/1/22?etoc). *Statistical Methods in Medical Research* 25, 22--36.
+
+<li> Mulatya$^s$ CM, **AC McLain**$^{\divideontimes c}$, B Cai, JW Hardin, PS Albert (2016). [Estimating time to event characteristics via longitudinal threshold regression models -- an application to cervical dilation progression](http://onlinelibrary.wiley.com/doi/10.1002/sim.7031/full). *Statistics in Medicine* 35, 4368--4379.
+
+<li> McMahan, C, **AC McLain**, C Gallagher, and E Schisterman (2016). [Estimating covariate-adjusted measures of diagnostic accuracy based on pooled biomarker assessments](http://onlinelibrary.wiley.com/doi/10.1002/bimj.201500195/abstract). *Biomedical Journal* 58:4, 944--961.
+
+<li> Zhou$^s$, J, J Zhang, **AC McLain** and B Cai (2016) [A multiple imputation approach for semiparametric cure model with interval censored data](http://www.sciencedirect.com/science/article/pii/S0167947316000220). *Computational Statistics and Data Analysis* 99, 105--114.
+
+<li> Cipolli$^s$, W, T Hanson, and **AC McLain** (2016). [Bayesian Nonparametric Multiple Testing](http://www.sciencedirect.com/science/article/pii/S0167947316300421). *Computational Statistics and Data Analysis*, 101, 64--79.
+
+<li> **McLain AC**, R Sundaram, and GM Buck Louis  (2015). [Joint analysis of longitudinal and survival data measured on nested time-scales using shared parameter models: an application to fecundity data](http://onlinelibrary.wiley.com/doi/10.1111/rssc.12075/abstract). *Journal of the Royal Statistical Society: Series C* 64, 339--357.
+
+<li> Cummings$^s$, T H, J W Hardin, **AC McLain**, J R Hussey, K J Bennett and G M Wingood (2015). [Modeling Heaped Count Data](http://www.stata-journal.com/article.html?article=st0388). *The Stata Journal* 15, 457--479.
+
+<li> Sapra$^s$, KJ, **AC McLain**, JM Maisog, R Sundaram, GM Buck Louis (2015). [Clustering of retrospectively reported and prospectively observed time-to-pregnancy among women in a preconception cohort](http://www.sciencedirect.com.pallas2.tcl.sc.edu/science/article/pii/S104727971500160X). *Annals of Epidemiology* 25, 959--963.
+
+<li>  **McLain$^ c$ AC**, R Sundaram, M E Thoma, and G M Buck Louis (2014). [Semiparametric modeling of grouped current duration data with preferential reporting](http://onlinelibrary.wiley.com/doi/10.1002/sim.6216/full). *Statistics in Medicine*, 33:23, 3961--3972.
+
+  - [Featured article](https://onlinelibrary.wiley.com/toc/10970258/2014/33/23) of the October 2014 issue of Statistics in Medicine.
+
+<li> **McLain$^ c$ AC** and Albert P  (2014). [A random-effects model for longitudinal data with random change-point and no time zero: an application to modeling and prediction of individualized labor curves](http://onlinelibrary.wiley.com/doi/10.1111/biom.12218/abstract). *Biometrics* 70 (4), 1052--1060.
+
+<li> **McLain$^ c$ AC** and Ghosh S (2013). [Efficient sieve maximum likelihood estimation of time-transformation models](http://www.tandfonline.com/doi/abs/10.1080/15598608.2013.772835). *Journal of Statistical Theory and Practice,* 7, 285--303.
+
+<li> Thoma ME, **AC McLain**, JF Louis, RB King, AC Trumble, R Sundaram, and GM Buck Louis (2013). [The prevalence of infertility in the United States as estimated by the current duration approach and a traditional construct approach](https://www.fertstert.org/article/S0015-0282(12)02449-1/abstract). *Fertility and Sterility,* 99, 1324--1331.
+
+  - Link to corresponding news media on [Reuters](http://www.reuters.com/article/2013/01/11/us-couples-infertility-idUSBRE90A13Y20130111) or [Mommyish.com](http://www.mommyish.com/2013/01/14/infertility-statistics/) discussing the results.
+  - Recognized in November 2017 as one of the most highly cited articles in *Fertility and Sterility* since 2012 ([link](https://www.journals.elsevier.com/fertility-and-sterility/most-cited-articles)).
+
+<li> Albert, P, R Sundaram, and **AC McLain** (2013). [Innovative applications of shared random parameter models for analyzing longitudinal data subject to dropout](https://link.springer.com/chapter/10.1007/978-1-4614-6871-4_7). In ISS-2012 *Proceedings Volume On Longitudinal Data Analysis Subject to Measurement Errors, Missing Values, and/or Outliers*, pp. 139--156. Springer New York.
+
+<li> **McLain$^ c$ AC**, K Lum, and R Sundaram (2012). [A joint mixed effects dispersion model for menstrual cycle length and time-to-pregnancy](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0420.2011.01711.x/full). *Biometrics* 68, 648--656.
+
+<li> Sun W, and **AC McLain** (2012). [Multiple testing of composite null hypotheses in heteroscedastic models](http://amstat.tandfonline.com/doi/abs/10.1080/01621459.2012.664505). *Journal of the American Statistical Association* 107, 673--687.
+
+<li> Sundaram R, **AC McLain**, and G M Buck Louis (2012). [A survival analysis approach to modeling human fecundity](http://biostatistics.oxfordjournals.org/content/13/1/4.abstract). *Biostatistics* 13, 4--17.
+
+<li> **McLain$^ c$ AC**, R Sundaram, M Cooney, A Gollenberg, and G Buck Louis (2011). [Clustering of fecundability within women](http://www.ncbi.nlm.nih.gov/pubmed/21819427). *Paediatric and Perinatal Epidemiology* 25, 460--465.
+
+<li> **McLain$^ c$ AC** and Ghosh S (2011). [Nonparametric estimation of the conditional mean residual life function with censored data](http://link.springer.com/article/10.1007/s10985-011-9197-x). *Lifetime Data Analysis* 17, 514--532.
+
+
+</ol>
+
+## In Progress
+
+- Guo$^s$, S, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Joint modeling of survival and backwards recurrence outcomes: an analysis of factors associated with fertility treatment](https://www.medrxiv.org/content/10.1101/2022.02.24.22271471v1). Revision submitted to the *Journal of the Royal Statistical Society: Series C*.
+
+- Zgodic$^s$, A, R Bai, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2310.12285). In revision for the *Journal of Computational and Graphical Statistics*. Link to [**lmmprobe** R package](https://github.com/anjazgodic/lmmprobe).
+
+  - 2023 ENAR Distinguished Student Paper Award Winner.
+
+- **McLain**$^c$, AC, A Zgodic$^s$, H Bondell. [Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2209.08139). Submitted to the *Journal of Computational and Graphical Statistics*. Link to [**probe** R package](https://github.com/alexmclain/probe).
+
+- Zgodic$^s$, A, R Bai, J Zhang, Y Wang, and **AC McLain**$^{\divideontimes c}$. [Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression](https://arxiv.org/abs/2309.08783). Submitted to *Statistics in Medicine*.
+
+

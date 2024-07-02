@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Selected Publications</title>
+
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="software.html">Software</a>
+</li>
+<li>
+  <a href="McLainCV.pdf">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Selected Publications</h1>
+
+</div>
+
+
+<p><strong>Complete List of Published Work can be seen in <a
+href="https://www.ncbi.nlm.nih.gov/myncbi/1t1Mlu-pcvyk9/bibliography/public/">My
+Bibliography</a> or my <a
+href="https://alexmclain.github.io/jekyll-example/McLainCV.pdf">CV</a>.</strong></p>
+<hr>
+<p><span class="math inline">\(^s\)</span>Student Author. <span
+class="math inline">\(^c\)</span>Corresponding Author. <span
+class="math inline">\(^\ast\)</span>Dual first-authors. <span
+class="math inline">\(^\divideontimes\)</span>Senior Author.</p>
+<ol reversed>
+<li>
+<p>Zhang<span class="math inline">\(^s\)</span> S, <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes c}\)</span>,
+J Habiger, C Rorden, and J Fridriksson (2024). <a
+href="https://arxiv.org/abs/2308.08364">False Discovery Rate Control for
+Lesion Symptom Mapping with Heterogeneous data via Weighted
+P-values</a>. <em>Biometrical Journal</em> (accepted). <a
+href="https://github.com/alexmclain/WABH_Analysis">Link to R
+code</a>.</p>
+<li>
+<p>Guo<span class="math inline">\(^s\)</span>, S, Y Wu, <strong>AC
+McLain</strong>, JW Hardin, B Olatosi, X Li, and J Zhang (2024).
+Functional multi-variable logistic regression with an application to HIV
+viral suppression prediction. <em>Biometrical Journal</em>
+(accepted).</p>
+<li>
+<p>Self S, X Zhao<span class="math inline">\(^s\)</span>, A Zgodic<span
+class="math inline">\(^s\)</span>, A Overby, D White, <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes}\)</span>,
+and C Dyckman (2024). <a
+href="https://doi.org/10.1016/j.spasta.2024.100839">A Hypothesis Test
+for Detecting Spatial Patterns in Categorical Areal Data</a>.
+<em>Spatial Statistics</em> (available online).</p>
+<li>
+<p>Olejua<span class="math inline">\(^s\)</span> P, <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes c}\)</span>,
+N Inak, M Dowda, and RR Pate (2024). <a
+href="https://doi.org/10.1123/pes.2023-0055">Clustering patterns of
+24-hour physical activity in children 6 to 36 months old</a>.
+<em>Pediatric Exercise Science</em> (available online).</p>
+<li>
+<p>Bradshaw J, JM Eberth, A Zgodic, A Federico, K Flory, <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes c}\)</span>
+(2024). <a
+href="https://link.springer.com/article/10.1007/s10803-023-05920-z">County-Level
+Prevalence Estimates of Autism Spectrum Disorder in Children in the
+United States</a>. <em>Journal of Autism and Developmental
+Disorders</em> (available online).</p>
+<li>
+<p>Self S, A Overby, A Zgodic<span class="math inline">\(^s\)</span>, D
+White, <strong>AC McLain</strong><span
+class="math inline">\(^{\divideontimes}\)</span>, and C Dyckman (2023).
+<a
+href="https://www.sciencedirect.com/science/article/pii/S2211675323000325?dgcid=coauthor">A
+hypothesis test for detecting distance-specific clustering and
+dispersion in areal data</a>. <em>Spatial Statistics</em> 55,
+100757.</p>
+<li>
+<p>Zgodic<span class="math inline">\(^{s  c}\)</span> A, <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes}\)</span>,
+JM Eberth, A Federico, J Bradshaw, K Flory (2023). <a
+href="https://www.sciencedirect.com/science/article/pii/S1047279723000066">County-Level
+Prevalence Estimates of ADHD in Children in the United States</a>.
+<em>Annals of Epidemiology</em> 79, 56–64.</p>
+<li>
+<p>Hong<span class="math inline">\(^s\)</span>, Y, JM Eberth, B Cai, and
+<strong>AC McLain</strong><span class="math inline">\(^{\divideontimes
+c}\)</span> (2022). <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S2211675322000434">Estimating
+confidence intervals for spatial hierarchical mixed-effects models with
+post-stratification</a>. <em>Spatial Statistics</em> 51, 100670.</p>
+<ul>
+<li><a href="https://doi.org/10.1093/jn/nxac092">Editorial</a> published
+by the <em>Journal of Nutrition</em> and <a
+href="https://nutrition.org/utilization-of-sparse-longitudinal-data-to-estimate-childhood-stunting-and-overweight-trends/">blog
+post</a> by the <em>American Society for Nutrition</em>, discussing the
+results.</li>
+</ul>
+<li>
+<p>Saraswati<span class="math inline">\(^s\)</span>, CM, E Borghi, JJ
+Rodrigues da Silva Breda, CM Flores-Urrutia, J Williams, C Hayashi, EA
+Frongillo, and <strong>AC McLain</strong><span
+class="math inline">\(^{\divideontimes}\)</span> (2022). <a
+href="https://doi.org/10.1093/jn/nxac072">Estimating childhood stunting
+and overweight trends in the European region from sparse longitudinal
+data</a>. <em>Journal of Nutrition</em> 150:7, 1773–1782.</p>
+<li>
+<p>Hess<span class="math inline">\(^\ast\)</span>, SY, <strong>AC
+McLain</strong><span class="math inline">\(^\ast\)</span>, H Lescinsky,
+KH Brown A Afshin, R Atkin, and SJM Osendarp (2022). <a
+href="https://www.cambridge.org/core/journals/public-health-nutrition/article/abs/basis-for-changes-in-the-global-burden-of-disease-estimates-related-to-vitamin-a-and-zinc-deficiencies-in-the-gbd-2017-and-2019-studies/0D3C57D1EF044BA7A1857E7D789F0134">Basis
+for changes for global burden of disease estimates related to vitamin A
+and zinc deficiency in the GBD 2017 and 2019 Studies</a>. <em>Public
+Health Nutrition</em> 25:8, 2225–2231.</p>
+<li>
+<p>Luo<span class="math inline">\(^s\)</span>, X, G Cai, <strong>AC
+McLain</strong>, C I Amos, B Cai, and F Xiao (2022) <a
+href="https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac147/6726187">BMI-CNV:
+a Bayesian framework for multiple genotyping platforms detection of copy
+number variation</a>. <em>Genetics</em> 222:4, iyac147.</p>
+<li>
+<p>Self, SCW, R Huang, S Amin, J Ewing, C Rudisill, and <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes}\)</span>
+(2022). <a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260595">A
+Bayesian Susceptible-Infectious-Hospitalized-Ventilated-Recovered Model
+to Predict Demand for COVID-19 Inpatient Care in a Large Healthcare
+System</a>. <em>PLoS One</em> 17:12, e0260595.</p>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span>, AC</strong>,
+S Guo, ME Thoma, and J Zhang (2021). <a
+href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Length-biased-semicompeting-risks-models-for-cross-sectional-data/10.1214/20-AOAS1428.full">Length-biased
+semicompeting risks models for cross-sectional data: An application to
+current duration of pregnancy attempt data</a>. <em>Annals of Applied
+Statistics</em> 15:2, 1054–1067. <a
+href="https://github.com/alexmclain/CDSCR">Link to code</a>.</p>
+<li>
+<p>Zgodic<span class="math inline">\(^s\)</span>, A, J Eberth, C
+Brennen, ME Wende, EW Stowe, AT Kaczynski, AD Liese and <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes c}\)</span>
+(2021). <a
+href="https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwab176/6300228">Estimates
+of Childhood Overweight and Obesity at the Region, State, and County
+Levels: A Multilevel Small Area Estimation Approach</a>. <em>American
+Journal of Epidemiology</em> 190:12, 2618–2629.</p>
+<li>
+<p>Hess<span class="math inline">\(^\ast\)</span>, SY, <strong>AC
+McLain</strong><span class="math inline">\(^\ast\)</span>, EA Frongillo,
+A Afshin, NJ Kassebaum, SJM Osendarp, R Atkin, R Rawat, and KH Brown
+(2021). <a href="https://doi.org/10.1093/cdn/nzab141">Challenges for
+estimating the global prevalence of micronutrient deficiencies and
+related disease burden: A case study of the Global Burden of Disease
+Study</a>. <em>Current Developments in Nutrition</em> 5:12, nzab141.</p>
+<li>
+<p>Zhou<span class="math inline">\(^s\)</span>, J, J Zhang, <strong>AC
+McLain</strong>, W Lu, X Sui, and JW Hardin (2020). <a
+href="https://journals.sagepub.com/doi/full/10.1177/0962280220939123">Semiparametric
+Regression of the Illness-Death Model with Interval Censored Disease
+Incidence Time: an Application to the ACLS Data</a>. <em>Statistical
+Methods in Medical Research</em> 29:12, 3707-3720.</p>
+<li>
+<p><strong>McLain<span class="math inline">\(^{ c}\)</span> AC</strong>,
+EA Frongillo, E Borghi, and J Feng (2019). <a
+href="https://onlinelibrary.wiley.com/doi/10.1002/sim.8024">Prediction
+intervals for heterogeneous penalized longitudinal models with
+multi-source summary measures: an application to estimating child
+malnutrition rates</a>. <em>Statistics in Medicine</em> 38:1, 1002–1012.
+<a href="https://github.com/alexmclain/PHMM">Link to R code</a>.</p>
+<li>
+<p><strong>McLain, AC</strong>, EA Frongillo, SY Hess, E Piwoz (2019).
+<a
+href="https://www.sciencedirect.com/science/article/pii/S2161831322006998">Comparison
+of methods used to estimate the global burden of disease related to
+undernutrition and suboptimal breastfeeding</a>. <em>Advances in
+Nutrition</em> 10:3, 380–390.</p>
+<li>
+<p>Zhang<span class="math inline">\(^s\)</span> Y, <strong>AC
+McLain</strong><span class="math inline">\(^ c\)</span>, B Davis, S
+McDermott (2019). <a
+href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2018.7267">Fecundity
+and infertility among women with disability in the United States</a>.
+<em>Journal of Women’s Health</em> 28:7, 934–940.</p>
+<li>
+<p>Zhou<span class="math inline">\(^s\)</span>, J, <strong>AC
+McLain</strong>, W Lu, X Sui, JW Hardin, and J Zhang (2019). <a
+href="https://onlinelibrary.wiley.com/doi/10.1111/biom.13057">A
+Varying-Coefficient Generalized Odds Rate Model with Time-Varying
+Exposure: An Application to Fitness and CVD Mortality</a>.
+<em>Biometrics</em> 75:3, 853–863.</p>
+<li>
+<p>Eberth<span class="math inline">\(^\ast\)</span> JM, <strong>AC
+McLain</strong><span class="math inline">\(^\ast\)</span>, Y Hong<span
+class="math inline">\(^s\)</span>, E Sercy, A Diedhiou, D J Kilpatrick
+(2018). <a href="https://europepmc.org/abstract/med/29685650">Estimating
+county-level tobacco use and exposure in South Carolina: a spatial
+model-based small area estimation approach</a>. <em>Annals of
+Epidemiology</em> 28:7, 481–488.e4.</p>
+<li>
+<p>Geraci, M, and <strong>AC McLain</strong> (2018). <a
+href="https://link.springer.com/article/10.1007%2Fs11336-018-9616-y">Multiple
+imputation for bounded variables</a>. <em>Psychometrika</em> 83:4
+919–940.</p>
+<li>
+<p>Polis, CB, CM Cox, "{O} Tunalp, <strong>AC McLain</strong>, ME Thoma
+(2017). <a
+href="https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/dex025">Estimating
+infertility prevalence in low-to-middle-income countries: An application
+of a current duration approach to Demographic and Health Survey
+data</a>. <em>Human Reproduction</em>, 32:5, 1064–1074.</p>
+<ul>
+<li><a
+href="https://www.globalhealthnow.org/2017-02/estimating-infertility-conceiving-new-approach?utm_source=Global+Health+NOW+Main+List&amp;utm_campaign=7421dbbced-EMAIL_CAMPAIGN_2017_02_15&amp;utm_medium=email&amp;utm_term=0_8d0d062dbd-7421dbbced-858767&amp;utm_source=IHP+Newsletter&amp;utm_campaign=1e8a5fbcbc-EMAIL_CAMPAIGN_2017_02_17&amp;utm_medium=email&amp;utm_term=0_14504ce43d-1e8a5fbcbc-298052537">post</a>
+by <em>Global Health Now</em>, <a
+href="http://sph.umd.edu/news-item/dr-thoma-verifies-cost-effective-approach-generate-infertility-estimates">post</a>
+by University of Maryland School of Public Health and <a
+href="https://www.sc.edu/study/colleges_schools/public_health/about/news/2017/infertility_prevalence.php#.WY3cna3MwUE">post</a>
+by the University of South Carolina Arnold School of Public Health.</li>
+<li>Honorable mention for the <a
+href="https://www.globalhealthnow.org/2019-03/winners-untold-global-health-stories-2019-announced?utm_source=Global+Health+NOW+Main+List&amp;utm_campaign=4f36c206bf-EMAIL_CAMPAIGN_2019_03_08_02_02&amp;utm_medium=email&amp;utm_term=0_8d0d062dbd-4f36c206bf-2808677">Winners
+of the Untold Global Health Stories of 2019</a>.</li>
+</ul>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span> AC</strong>, R
+Sundaram, and GM Buck Louis (2016). <a
+href="http://smm.sagepub.com/content/25/1/22?etoc">Modeling fecundity in
+the presence of a sterile fraction using a semi-parametric
+transformation model for grouped survival data</a>. <em>Statistical
+Methods in Medical Research</em> 25, 22–36.</p>
+<li>
+<p>Mulatya<span class="math inline">\(^s\)</span> CM, <strong>AC
+McLain</strong><span class="math inline">\(^{\divideontimes c}\)</span>,
+B Cai, JW Hardin, PS Albert (2016). <a
+href="http://onlinelibrary.wiley.com/doi/10.1002/sim.7031/full">Estimating
+time to event characteristics via longitudinal threshold regression
+models – an application to cervical dilation progression</a>.
+<em>Statistics in Medicine</em> 35, 4368–4379.</p>
+<li>
+<p>McMahan, C, <strong>AC McLain</strong>, C Gallagher, and E
+Schisterman (2016). <a
+href="http://onlinelibrary.wiley.com/doi/10.1002/bimj.201500195/abstract">Estimating
+covariate-adjusted measures of diagnostic accuracy based on pooled
+biomarker assessments</a>. <em>Biomedical Journal</em> 58:4,
+944–961.</p>
+<li>
+<p>Zhou<span class="math inline">\(^s\)</span>, J, J Zhang, <strong>AC
+McLain</strong> and B Cai (2016) <a
+href="http://www.sciencedirect.com/science/article/pii/S0167947316000220">A
+multiple imputation approach for semiparametric cure model with interval
+censored data</a>. <em>Computational Statistics and Data Analysis</em>
+99, 105–114.</p>
+<li>
+<p>Cipolli<span class="math inline">\(^s\)</span>, W, T Hanson, and
+<strong>AC McLain</strong> (2016). <a
+href="http://www.sciencedirect.com/science/article/pii/S0167947316300421">Bayesian
+Nonparametric Multiple Testing</a>. <em>Computational Statistics and
+Data Analysis</em>, 101, 64–79.</p>
+<li>
+<p><strong>McLain AC</strong>, R Sundaram, and GM Buck Louis (2015). <a
+href="http://onlinelibrary.wiley.com/doi/10.1111/rssc.12075/abstract">Joint
+analysis of longitudinal and survival data measured on nested
+time-scales using shared parameter models: an application to fecundity
+data</a>. <em>Journal of the Royal Statistical Society: Series C</em>
+64, 339–357.</p>
+<li>
+<p>Cummings<span class="math inline">\(^s\)</span>, T H, J W Hardin,
+<strong>AC McLain</strong>, J R Hussey, K J Bennett and G M Wingood
+(2015). <a
+href="http://www.stata-journal.com/article.html?article=st0388">Modeling
+Heaped Count Data</a>. <em>The Stata Journal</em> 15, 457–479.</p>
+<li>
+<p>Sapra<span class="math inline">\(^s\)</span>, KJ, <strong>AC
+McLain</strong>, JM Maisog, R Sundaram, GM Buck Louis (2015). <a
+href="http://www.sciencedirect.com.pallas2.tcl.sc.edu/science/article/pii/S104727971500160X">Clustering
+of retrospectively reported and prospectively observed time-to-pregnancy
+among women in a preconception cohort</a>. <em>Annals of
+Epidemiology</em> 25, 959–963.</p>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span> AC</strong>, R
+Sundaram, M E Thoma, and G M Buck Louis (2014). <a
+href="http://onlinelibrary.wiley.com/doi/10.1002/sim.6216/full">Semiparametric
+modeling of grouped current duration data with preferential
+reporting</a>. <em>Statistics in Medicine</em>, 33:23, 3961–3972.</p>
+<ul>
+<li><a
+href="https://onlinelibrary.wiley.com/toc/10970258/2014/33/23">Featured
+article</a> of the October 2014 issue of Statistics in Medicine.</li>
+</ul>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span> AC</strong>
+and Albert P (2014). <a
+href="http://onlinelibrary.wiley.com/doi/10.1111/biom.12218/abstract">A
+random-effects model for longitudinal data with random change-point and
+no time zero: an application to modeling and prediction of
+individualized labor curves</a>. <em>Biometrics</em> 70 (4),
+1052–1060.</p>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span> AC</strong>
+and Ghosh S (2013). <a
+href="http://www.tandfonline.com/doi/abs/10.1080/15598608.2013.772835">Efficient
+sieve maximum likelihood estimation of time-transformation models</a>.
+<em>Journal of Statistical Theory and Practice,</em> 7, 285–303.</p>
+<li>
+<p>Thoma ME, <strong>AC McLain</strong>, JF Louis, RB King, AC Trumble,
+R Sundaram, and GM Buck Louis (2013). <a
+href="https://www.fertstert.org/article/S0015-0282(12)02449-1/abstract">The
+prevalence of infertility in the United States as estimated by the
+current duration approach and a traditional construct approach</a>.
+<em>Fertility and Sterility,</em> 99, 1324–1331.</p>
+<ul>
+<li>Link to corresponding news media on <a
+href="http://www.reuters.com/article/2013/01/11/us-couples-infertility-idUSBRE90A13Y20130111">Reuters</a>
+or <a
+href="http://www.mommyish.com/2013/01/14/infertility-statistics/">Mommyish.com</a>
+discussing the results.</li>
+<li>Recognized in November 2017 as one of the most highly cited articles
+in <em>Fertility and Sterility</em> since 2012 (<a
+href="https://www.journals.elsevier.com/fertility-and-sterility/most-cited-articles">link</a>).</li>
+</ul>
+<li>
+<p>Albert, P, R Sundaram, and <strong>AC McLain</strong> (2013). <a
+href="https://link.springer.com/chapter/10.1007/978-1-4614-6871-4_7">Innovative
+applications of shared random parameter models for analyzing
+longitudinal data subject to dropout</a>. In ISS-2012 <em>Proceedings
+Volume On Longitudinal Data Analysis Subject to Measurement Errors,
+Missing Values, and/or Outliers</em>, pp. 139–156. Springer New
+York.</p>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span> AC</strong>, K
+Lum, and R Sundaram (2012). <a
+href="http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0420.2011.01711.x/full">A
+joint mixed effects dispersion model for menstrual cycle length and
+time-to-pregnancy</a>. <em>Biometrics</em> 68, 648–656.</p>
+<li>
+<p>Sun W, and <strong>AC McLain</strong> (2012). <a
+href="http://amstat.tandfonline.com/doi/abs/10.1080/01621459.2012.664505">Multiple
+testing of composite null hypotheses in heteroscedastic models</a>.
+<em>Journal of the American Statistical Association</em> 107,
+673–687.</p>
+<li>
+<p>Sundaram R, <strong>AC McLain</strong>, and G M Buck Louis (2012). <a
+href="http://biostatistics.oxfordjournals.org/content/13/1/4.abstract">A
+survival analysis approach to modeling human fecundity</a>.
+<em>Biostatistics</em> 13, 4–17.</p>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span> AC</strong>, R
+Sundaram, M Cooney, A Gollenberg, and G Buck Louis (2011). <a
+href="http://www.ncbi.nlm.nih.gov/pubmed/21819427">Clustering of
+fecundability within women</a>. <em>Paediatric and Perinatal
+Epidemiology</em> 25, 460–465.</p>
+<li>
+<p><strong>McLain<span class="math inline">\(^ c\)</span> AC</strong>
+and Ghosh S (2011). <a
+href="http://link.springer.com/article/10.1007/s10985-011-9197-x">Nonparametric
+estimation of the conditional mean residual life function with censored
+data</a>. <em>Lifetime Data Analysis</em> 17, 514–532.</p>
+</ol>
+<div id="in-progress" class="section level2">
+<h2>In Progress</h2>
+<ul>
+<li><p>Guo<span class="math inline">\(^s\)</span>, S, J Zhang, and
+<strong>AC McLain</strong><span class="math inline">\(^{\divideontimes
+c}\)</span>. <a
+href="https://www.medrxiv.org/content/10.1101/2022.02.24.22271471v1">Joint
+modeling of survival and backwards recurrence outcomes: an analysis of
+factors associated with fertility treatment</a>. Revision submitted to
+the <em>Journal of the Royal Statistical Society: Series
+C</em>.</p></li>
+<li><p>Zgodic<span class="math inline">\(^s\)</span>, A, R Bai, J Zhang,
+and <strong>AC McLain</strong><span
+class="math inline">\(^{\divideontimes c}\)</span>. <a
+href="https://arxiv.org/abs/2310.12285">Sparse high-dimensional linear
+mixed modeling with a partitioned empirical Bayes ECM algorithm</a>. In
+revision for the <em>Journal of Computational and Graphical
+Statistics</em>. Link to <a
+href="https://github.com/anjazgodic/lmmprobe"><strong>lmmprobe</strong>
+R package</a>.</p>
+<ul>
+<li>2023 ENAR Distinguished Student Paper Award Winner.</li>
+</ul></li>
+<li><p><strong>McLain</strong><span class="math inline">\(^c\)</span>,
+AC, A Zgodic<span class="math inline">\(^s\)</span>, H Bondell. <a
+href="https://arxiv.org/abs/2209.08139">Sparse high-dimensional linear
+regression with a partitioned empirical Bayes ECM algorithm</a>.
+Submitted to the <em>Journal of Computational and Graphical
+Statistics</em>. Link to <a
+href="https://github.com/alexmclain/probe"><strong>probe</strong> R
+package</a>.</p></li>
+<li><p>Zgodic<span class="math inline">\(^s\)</span>, A, R Bai, J Zhang,
+Y Wang, and <strong>AC McLain</strong><span
+class="math inline">\(^{\divideontimes c}\)</span>. <a
+href="https://arxiv.org/abs/2309.08783">Quantifying predictive
+uncertainty of aphasia severity in stroke patients with sparse
+heteroscedastic Bayesian high-dimensional regression</a>. Submitted to
+<em>Statistics in Medicine</em>.</p></li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
