@@ -4,8 +4,8 @@ title: "Alexander McLain"
 
 <hr>
 
-I am an Associate Professor in the Department of Epidemiology and
-Biostatistics at the University of South Carolina. I have a broad range
+I am an Associate Professor in the [Department of Epidemiology and
+Biostatistics](https://www.sc.edu/study/colleges_schools/public_health/study/areas_of_study/epidemiology_biostatistics/index.php) at the University of South Carolina. I have a broad range
 of statistical interests including Bayesian methods for high-dimensional
 linear regression, modeling complex longitudinal and clustered data,
 length-biased survival analysis, and multiple testing. Recently, most of
