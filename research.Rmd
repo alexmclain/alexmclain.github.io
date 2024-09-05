@@ -92,4 +92,4 @@ This broad scope includes creating statistical tools that enable predictive infe
 
 
 
-I currently serve as an associate editor at the [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258) and am a Statistical Consultant (reviewer) for the [American Journal of Obstetrics and Gynecology](https://www.ajog.org).
+I currently serve as an associate editor at [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258) and am a Statistical Consultant (reviewer) for the [American Journal of Obstetrics and Gynecology](https://www.ajog.org).
