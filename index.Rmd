@@ -26,10 +26,13 @@ American Society of Nutrition. <br>
 ::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
 <div>
 
-Associate Professor<br> Director, Statistical and Data Management Core,
-<br> Research Center for Child Well-Being <https://rccwb.sc.edu/><br>
-Department of Epidemiology and Biostatistics<br> Arnold School of Public
-Health<br> University of South Carolina<br>
+Alexander McLain, PhD<br> 
+Associate Professor<br> 
+Director, Statistical and Data Management Core,<br> 
+Research Center for Child Well-Being <https://rccwb.sc.edu/><br>
+Department of Epidemiology and Biostatistics<br> 
+Arnold School of Public Health<br> 
+University of South Carolina<br>
 [alex.mclain\@sc.edu](mailto:alex.mclain@sc.edu){.email} <br>
 
 </div>
