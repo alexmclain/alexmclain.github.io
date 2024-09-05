@@ -2,7 +2,7 @@
 title: '**Selected Publications**'
 ---
 
-**The list below contains mostly biostatistical methods publications and papers where I was a lead author. A complete List of publications can be seen in my [CV](https://alexmclain.github.io/jekyll-example/McLainCV.pdf).** 
+The list below contains mostly biostatistical methods papers and those where I was a lead author. A complete List of publications can be seen in my [CV](https://alexmclain.github.io/jekyll-example/McLainCV.pdf). 
 
 
 <hr>
