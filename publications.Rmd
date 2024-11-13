@@ -14,15 +14,20 @@ $^s$Student Author. $^c$Corresponding Author. $^\ast$Dual first-authors.  $^\div
 
 <li> Guo$^s$ S, J Zhang, **AC McLain**$^{\divideontimes c}$ (2024+). [Joint modeling of survival and backwards recurrence outcomes: an analysis of factors associated with fertility treatment](https://doi.org/10.1093/jrsssc/qlae039). *Journal of the Royal Statistical Society: Series C,* (available online).
 
-<li> Zhang$^s$ S, **AC McLain**$^{\divideontimes c}$, J Habiger, C Rorden, and J Fridriksson (2024). [False Discovery Rate Control for Lesion Symptom Mapping with Heterogeneous data via Weighted P-values](https://doi.org/10.1002/bimj.20230019). *Biometrical Journal,* 66:6,  e202300198. [Link to R code](https://github.com/alexmclain/WABH_Analysis).
+
+
+<li> Olejua$^s$ P, **AC McLain**$^{\divideontimes c}$, N Inak, M Dowda, and RR Pate (2024). [Clustering patterns of 24-hour physical activity in children 6 to 36 months old](https://doi.org/10.1123/pes.2023-0055). *Pediatric Exercise Science* (available online).
 
 <li> Huang$^s$, R, **AC McLain**, B Herrin, M Nolan, B Cai and S Self (2024+). [Bayesian Group Testing Regression Models for Spatial Data](https://www.sciencedirect.com/science/article/pii/S1877584524000443?dgcid=coauthor).*Spatio and Spatio-Temporal Epidemiology* (available online).
+
+
+<li> Huang$^s$, R, C McMahan, B Herrin, **AC McLain**, B Cai and S Self (2024+). [Gradient Boosting: A Computationally Efficient Alternative to Markov Chain Monte Carlo Sampling for Fitting Large Bayesian Spatio-Temporal Binomial Regression Models](https://www.sciencedirect.com/science/article/pii/S2468042724001131?via%3Dihub). *Infectious Disease Modeling* (available online).
 
 <li> Guo$^s$, S, Y Wu, **AC McLain**, JW Hardin, B Olatosi, X Li, and J Zhang (2024). Functional multi-variable logistic regression with an application to HIV viral suppression prediction. *Biometrical Journal* (accepted).
 
 <li> Self S, X Zhao$^s$, A Zgodic$^s$, A Overby, D White, **AC McLain**$^{\divideontimes}$, and C Dyckman (2024). [A Hypothesis Test for Detecting Spatial Patterns in Categorical Areal Data](https://doi.org/10.1016/j.spasta.2024.100839). *Spatial Statistics* (available online).
 
-<li> Olejua$^s$ P, **AC McLain**$^{\divideontimes c}$, N Inak, M Dowda, and RR Pate (2024). [Clustering patterns of 24-hour physical activity in children 6 to 36 months old](https://doi.org/10.1123/pes.2023-0055). *Pediatric Exercise Science* (available online).
+<li> Zhang$^s$ S, **AC McLain**$^{\divideontimes c}$, J Habiger, C Rorden, and J Fridriksson (2024). [False Discovery Rate Control for Lesion Symptom Mapping with Heterogeneous data via Weighted P-values](https://doi.org/10.1002/bimj.20230019). *Biometrical Journal,* 66:6,  e202300198. [Link to R code](https://github.com/alexmclain/WABH_Analysis).
 
 <li> Bradshaw J, JM Eberth, A Zgodic, A Federico, K Flory, **AC McLain**$^{\divideontimes c}$ (2024). [County-Level Prevalence Estimates of Autism Spectrum Disorder in Children in the United States](https://link.springer.com/article/10.1007/s10803-023-05920-z). *Journal of Autism and Developmental Disorders* 54, 2710--2718..
 
@@ -113,19 +118,19 @@ $^s$Student Author. $^c$Corresponding Author. $^\ast$Dual first-authors.  $^\div
 
 ## In Progress
 
-- Guo$^s$, S, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Joint modeling of survival and backwards recurrence outcomes: an analysis of factors associated with fertility treatment](https://www.medrxiv.org/content/10.1101/2022.02.24.22271471v1). Revision submitted to the *Journal of the Royal Statistical Society: Series C*.
+- **McLain**$^c$, AC, A Zgodic$^s$, H Bondell. [Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2209.08139). Revision submitted to *Computational Statistics and Data Analysis*. Link to [**probe** R package](https://github.com/alexmclain/probe).
 
-- Zgodic$^s$, A, R Bai, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2310.12285). In revision for the *Journal of Computational and Graphical Statistics*. Link to [**lmmprobe** R package](https://github.com/anjazgodic/lmmprobe).
+- Zgodic$^s$, A, R Bai, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2310.12285). Submitted to *Statistics and Computing*. Link to [**lmmprobe** R package](https://github.com/anjazgodic/lmmprobe).
 
   - 2023 ENAR Distinguished Student Paper Award Winner.
 
-- **McLain**$^c$, AC, A Zgodic$^s$, H Bondell. [Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2209.08139). Submitted to the *Journal of Computational and Graphical Statistics*. Link to [**probe** R package](https://github.com/alexmclain/probe).
 
-- Zgodic$^s$, A, R Bai, J Zhang, Y Wang, and **AC McLain**$^{\divideontimes c}$. [Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression](https://arxiv.org/abs/2309.08783). Submitted to *Statistics in Medicine*.
+- Zgodic$^s$, A, R Bai, J Zhang, Y Wang, and **AC McLain**$^{\divideontimes c}$. [Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression](https://arxiv.org/abs/2309.08783). Submitted to *International Journal of Biostatistics*.
 
-- Chen$^s$, S, J Zhang, J Zhou, **AC McLain**, and J Hardin. Semiparametric Estimations Methods for the Generalized Odds Rate Cure Model with Background Mortality with an application to Breast Cancer. Revision submitted to Statistical Methods in Medical Research.
+- Chen$^s$, S, J Zhang, J Zhou, **AC McLain**, and J Hardin. Semiparametric Estimations Methods for the Generalized Odds Rate Cure Model with Background Mortality with an application to Breast Cancer. Revision submitted to *Statistical Methods in Medical Research*.
 
-- Huang$^s$, R, C McMahan, B Herrin, **AC McLain**, B Cai and S Self. {Gradient Boosting: A Computationally Efficient Alternative to Markov Chain Monte Carlo Sampling for Fitting Large Bayesian Spatio-Temporal Binomial Regression Models}. Revision submitted to Infectious Disease Modeling. 
+- Vidanapathirana$^s$, N, Y Wang, **AC McLain**, and S Self. Cluster Detection Capabilities of the Average Nearest Neighbor Ratio and Ripley's K Function on Areal Data: an Empirical Assessment. Submitted to *Spatial Statistics*. 
 
  
+ Last updated October, 2024.
 
