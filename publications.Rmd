@@ -120,7 +120,7 @@ $^s$Student Author. $^c$Corresponding Author. $^\ast$Dual first-authors.  $^\div
 
 - **McLain**$^c$, AC, A Zgodic$^s$, H Bondell. [Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2209.08139). Revision submitted to *Computational Statistics and Data Analysis*. Link to [**probe** R package](https://github.com/alexmclain/probe).
 
-- Zgodic$^s$, A, R Bai, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2310.12285). Submitted to *Statistics and Computing*. Link to [**lmmprobe** R package](https://github.com/anjazgodic/lmmprobe).
+- Zgodic$^s$, A, R Bai, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2310.12285). In revision for *Statistics and Computing*. Link to [**lmmprobe** R package](https://github.com/anjazgodic/lmmprobe).
 
   - 2023 ENAR Distinguished Student Paper Award Winner.
 
@@ -132,5 +132,5 @@ $^s$Student Author. $^c$Corresponding Author. $^\ast$Dual first-authors.  $^\div
 - Vidanapathirana$^s$, N, Y Wang, **AC McLain**, and S Self. Cluster Detection Capabilities of the Average Nearest Neighbor Ratio and Ripley's K Function on Areal Data: an Empirical Assessment. Submitted to *Spatial Statistics*. 
 
  
- Last updated October, 2024.
+ Last updated December, 2024.
 
