@@ -12,7 +12,7 @@ $^s$Student Author. $^c$Corresponding Author. $^\ast$Dual first-authors.  $^\div
 
 ## In Progress
 
-- **McLain**$^c$, AC, A Zgodic$^s$, H Bondell. [Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2209.08139). Revision submitted to *Computational Statistics and Data Analysis*. Link to [**probe** R package](https://github.com/alexmclain/probe).
+
 
 - Zgodic$^s$, A, R Bai, J Zhang, and **AC McLain**$^{\divideontimes c}$. [Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm](https://arxiv.org/abs/2310.12285). In revision for *Statistics and Computing*. Link to [**lmmprobe** R package](https://github.com/anjazgodic/lmmprobe).
 
@@ -30,7 +30,9 @@ $^s$Student Author. $^c$Corresponding Author. $^\ast$Dual first-authors.  $^\div
 
 <ol >
 
+<li>  **McLain**$^c$, AC, A Zgodic$^s$, H Bondell (2025+). [Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm](https://doi.org/10.1016/j.csda.2025.108146). *Computational Statistics and Data Analysis* (available online). 
 
+  - Link to [**probe** R package](https://github.com/alexmclain/probe).
 
 <li> Olejua$^s$ P, **AC McLain**$^{\divideontimes c}$, N Inak, M Dowda, and RR Pate (2025+). [Clustering patterns of 24-hour physical activity in children 6 to 36 months old](https://doi.org/10.1123/pes.2023-0055). *Pediatric Exercise Science,* (available online).
 
